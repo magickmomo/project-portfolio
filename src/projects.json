@@ -1,0 +1,160 @@
+[
+  {
+    "id": "treespotter",
+    "name": "Treespotter",
+    "subtitle": "Community tree mapping",
+    "status": "active",
+    "icon": "trees",
+    "updatedAt": "2026-10-18",
+    "startedAt": null,
+    "launchedAt": "2026-10",
+    "description": "A shared map where people can photograph and discover trees around them.",
+    "website": "https://treespotter.app",
+    "repository": null,
+    "metrics": {
+      "registeredUsers": 1,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": 0,
+      "costGBP": null
+    },
+    "milestones": [
+      {
+        "date": "2026-10-17",
+        "title": "Shared on r/IMadeThis"
+      },
+      {
+        "date": "2026-10",
+        "title": "Public site launched"
+      }
+    ],
+    "outcome": null,
+    "lesson": null
+  },
+  {
+    "id": "little-dictionary",
+    "name": "Little Dictionary",
+    "subtitle": "Chrome extension · Submitted for review",
+    "status": "active",
+    "icon": "book",
+    "updatedAt": "2026-10-17",
+    "startedAt": null,
+    "launchedAt": null,
+    "description": "Save unfamiliar words as you browse and return to their definitions later.",
+    "website": null,
+    "repository": null,
+    "metrics": {
+      "registeredUsers": null,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": null,
+      "costGBP": null
+    },
+    "milestones": [
+      {
+        "date": "2026-10-17",
+        "title": "Submitted to Chrome Web Store for review"
+      }
+    ],
+    "outcome": null,
+    "lesson": null
+  },
+  {
+    "id": "customs-idp",
+    "name": "Customs IDP",
+    "subtitle": "Document processing · Independent MVP",
+    "status": "paused",
+    "icon": "file",
+    "updatedAt": "2026-10-16",
+    "startedAt": null,
+    "launchedAt": null,
+    "description": "An independent document processing MVP for customs declarations.",
+    "website": "https://customs-idp.vercel.app",
+    "repository": "https://github.com/magickmomo/customs-idp",
+    "metrics": {
+      "registeredUsers": null,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": null,
+      "costGBP": null
+    },
+    "milestones": [],
+    "outcome": null,
+    "lesson": null
+  },
+  {
+    "id": "tattoo-of-fortune",
+    "name": "Tattoo of Fortune",
+    "subtitle": "Generative tattoo design experiment",
+    "status": "prototype",
+    "icon": "sparkles",
+    "updatedAt": "2026-10-17",
+    "startedAt": null,
+    "launchedAt": null,
+    "description": "An infinite grid of simple, automatically generated tattoo designs.",
+    "website": null,
+    "repository": null,
+    "metrics": {
+      "registeredUsers": null,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": null,
+      "costGBP": null
+    },
+    "milestones": [],
+    "outcome": null,
+    "lesson": "Prioritise designs people actually want over building a large generation system."
+  },
+  {
+    "id": "you-wont-wear-this-tshirt",
+    "name": "You Won't Wear This T-Shirt",
+    "subtitle": "Generative design experiment",
+    "status": "paused",
+    "icon": "shirt",
+    "updatedAt": null,
+    "startedAt": null,
+    "launchedAt": null,
+    "description": "An experiment in generating designs for clothing.",
+    "website": null,
+    "repository": null,
+    "metrics": {
+      "registeredUsers": null,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": null,
+      "costGBP": null
+    },
+    "milestones": [],
+    "outcome": "Spent more effort building the design-generation system than validating the designs themselves.",
+    "lesson": "Make a few strong designs and test demand before building the machine."
+  },
+  {
+    "id": "simpler-better-pdf",
+    "name": "Simpler Better PDF",
+    "subtitle": "PDF utility experiment",
+    "status": "paused",
+    "icon": "file",
+    "updatedAt": null,
+    "startedAt": null,
+    "launchedAt": null,
+    "description": "An earlier experiment in PDF utilities.",
+    "website": null,
+    "repository": null,
+    "metrics": {
+      "registeredUsers": null,
+      "visitors": null,
+      "peakActiveUsers": null,
+      "peakPeriod": null,
+      "revenueGBP": null,
+      "costGBP": null
+    },
+    "milestones": [],
+    "outcome": null,
+    "lesson": null
+  }
+]
